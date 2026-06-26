@@ -1,0 +1,6 @@
+{
+  "name": "KhmerHTML IDE",
+  "description": "An interactive web-based IDE for learning standard HTML using Khmer-translated tags and attributes, complete with a live preview, exercises, templates, and an AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
